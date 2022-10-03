@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TASK_005_Fibonachi/1.0.0": {
+        "runtime": {
+          "TASK_005_Fibonachi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TASK_005_Fibonachi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
